@@ -23,7 +23,6 @@ A sensor will automatically detect a person walking past it and this triggers th
 •	breadboard
 
 # Conclusion and Future Scope
-The short-term goal is to build a prototype & implement all sensors inside RAIOT Lab to demonstrate Automation working & scope.
 With our People Counter, we can determine the number of people within a specific area and detect their direction of movement , Our Future Scope are
 •	Occupancy monitoring to control maximum or minimum occupancy, support evacuation measures and trigger demand-controlled ventilation (DCV)
 •	Wrong-way detection and bi-directional counting
